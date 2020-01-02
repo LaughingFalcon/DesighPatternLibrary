@@ -40,35 +40,35 @@ namespace DesighPatternLibrary
             Console.WriteLine("Hello World!");
             Console.WriteLine();
 
-            //InvokeAdapter();
-            //InvokeBridge();
-            //InvokeBuilder();
-            //InvokeChain();
-            //InvokeNull();
-            //InvokeSingleton();
-            //InvokeCommand();
-            //InvokeComposite();
-            //InvokeDecorator();
-            //InvokeFacade();
-            //InvokeFactory();
-            //InvokeInterpreter();
-            //InvokeMediator();
-            //InvokeMemento();
-            //InvokePrototype();
-            //InvokeRepository();
-            //InvokeState();
-            //InvokeTemplate(); //18
-            //InvokeObserve();
-            //InvokeStrategy();
-            //InvokeLazy();
-            //InvokeMVP();
-            //InvokeEvent();
+            InvokeAdapter();
+            InvokeBridge();
+            InvokeBuilder();
+            InvokeChain();
+            InvokeNull();
+            InvokeSingleton();
+            InvokeCommand();
+            InvokeComposite();
+            InvokeDecorator();
+            InvokeFacade();
+            InvokeFactory();
+            InvokeInterpreter();
+            InvokeMediator();
+            InvokeMemento();
+            InvokePrototype();
+            InvokeRepository();
+            InvokeState();
+            InvokeTemplate(); //18
+            InvokeObserve();
+            InvokeStrategy();
+            InvokeLazy();
+            InvokeMVP();
+            InvokeEvent();
             InvokeFlyweight();
-            //InvokeIterator();
-            //InvokeProxy();
-            //InvokeService();
-            //InvokeRules();
-            //InvokeSpecification();
+            InvokeIterator();
+            InvokeProxy();
+            InvokeService();
+            InvokeRules();
+            InvokeSpecification();
 
         }
 
