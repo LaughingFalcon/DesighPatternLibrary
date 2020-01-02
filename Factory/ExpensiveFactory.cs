@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace DesighPatternLibrary.Factory
+{
+    public class ExpensiveFactory : IFactory
+    {
+
+        public IProduct createProduct(string type, int t, bool economic)
+        {
+            IProduct newProduct = new Car(type, t, 100, economic);
+            return newProduct;
+        }
+        public IProduct createProduct(string type, bool economic)
+        {
+            IProduct newProduct = new Motocycle(type, 60,economic);
+            
+            return newProduct;
+        }
+        
+    }
+}

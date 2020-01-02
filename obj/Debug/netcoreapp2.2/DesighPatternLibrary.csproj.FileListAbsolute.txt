@@ -1,0 +1,11 @@
+C:\Users\acaua\source\repos\DesighPatternLibrary\bin\Debug\netcoreapp2.2\DesighPatternLibrary.deps.json
+C:\Users\acaua\source\repos\DesighPatternLibrary\bin\Debug\netcoreapp2.2\DesighPatternLibrary.runtimeconfig.json
+C:\Users\acaua\source\repos\DesighPatternLibrary\bin\Debug\netcoreapp2.2\DesighPatternLibrary.runtimeconfig.dev.json
+C:\Users\acaua\source\repos\DesighPatternLibrary\bin\Debug\netcoreapp2.2\DesighPatternLibrary.dll
+C:\Users\acaua\source\repos\DesighPatternLibrary\bin\Debug\netcoreapp2.2\DesighPatternLibrary.pdb
+C:\Users\acaua\source\repos\DesighPatternLibrary\obj\Debug\netcoreapp2.2\DesighPatternLibrary.csproj.CoreCompileInputs.cache
+C:\Users\acaua\source\repos\DesighPatternLibrary\obj\Debug\netcoreapp2.2\DesighPatternLibrary.AssemblyInfoInputs.cache
+C:\Users\acaua\source\repos\DesighPatternLibrary\obj\Debug\netcoreapp2.2\DesighPatternLibrary.AssemblyInfo.cs
+C:\Users\acaua\source\repos\DesighPatternLibrary\obj\Debug\netcoreapp2.2\DesighPatternLibrary.dll
+C:\Users\acaua\source\repos\DesighPatternLibrary\obj\Debug\netcoreapp2.2\DesighPatternLibrary.pdb
+C:\Users\acaua\source\repos\DesighPatternLibrary\obj\Debug\netcoreapp2.2\DesighPatternLibrary.csprojResolveAssemblyReference.cache
